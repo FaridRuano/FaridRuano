@@ -29,11 +29,6 @@
   &nbsp;·&nbsp;
   <a href="https://instagram.com/farid.ruano" target="_blank">Instagram</a>
   &nbsp;·&nbsp;
-  <a href="https://twitter.com/farid__ruano" target="_blank">X / Twitter</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.behance.net/faridruano" target="_blank">Behance</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/faridruano" target="_blank">GitHub</a>
 </p>
 
 <br/>
